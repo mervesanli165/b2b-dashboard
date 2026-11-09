@@ -4,7 +4,7 @@
 
 Bir B2B kitap dağıtımcısının 2020 yılına ait 664 bin satırlık işlem verisi üzerinde, **satış, pazarlama ve tedarik zinciri** departmanları için geliştirilmiş etkileşimli bir karar destek sistemi.
 
-🔗 **Canlı panel:** _<Streamlit Cloud bağlantınızı buraya ekleyin>_
+🔗 **Canlı panel:** _Streamlit Cloud bağlantınızı buraya ekleyin>](https://b2b-dashboard-uvrrb7pubnnnm6ohb9denf.streamlit.app_
 
 ## Panel yapısı
 
