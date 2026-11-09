@@ -1,9 +1,10 @@
 # 📚 B2B Kitap Dağıtımı — Akıllı Karar Destek Paneli
 
 **ISL 533 Veri Madenciliği · Ödev I** — Python Streamlit ile akıllı gösterge paneli
+
 **Proje Ekibi:**
-Mert Eren Kuru – 507251077
 Mehmet Bütkül – 507251074
+Mert Eren Kuru – 507251077
 Merve Şanlı – 507241096
 
 
