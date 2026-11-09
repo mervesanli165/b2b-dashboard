@@ -1,6 +1,11 @@
 # 📚 B2B Kitap Dağıtımı — Akıllı Karar Destek Paneli
 
 **ISL 533 Veri Madenciliği · Ödev I** — Python Streamlit ile akıllı gösterge paneli
+**Proje Ekibi:**
+Mert Eren Kuru – 507251077
+Mehmet Bütkül – 507251074
+Merve Şanlı – 507241096
+
 
 Bir B2B kitap dağıtımcısının 2020 yılına ait 664 bin satırlık işlem verisi üzerinde, **satış, pazarlama ve tedarik zinciri** departmanları için geliştirilmiş etkileşimli bir karar destek sistemi.
 
